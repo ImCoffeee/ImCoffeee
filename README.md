@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nigel Cope
 #### I'm a Student
-![I'm a Student](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 Skills: Java/C#/Python
