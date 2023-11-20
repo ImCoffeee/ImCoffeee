@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java and C#**
 - 📫 How to reach me **nigelcope246@gmail.com**
-- 😄 Pronouns: he /him**
+- 😄 Pronouns: he /him
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
