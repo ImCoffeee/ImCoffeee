@@ -11,20 +11,20 @@ Skills: Java/C#/Python
 
 
 <p>
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" />
   </a>
       
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://github.com/ImCoffeee/ImCoffeee/blob/main/facebook-color-svgrepo-com.svg" width="50" />
+  <a>
+    <img src="https://github.com/ImCoffeee/ImCoffeee/blob/mai/facebook-color-svgrepo-com.svg" width="50" />
   </a>
   
-  <a href="https://skillicons.dev">
+  <a>
      <img src="https://github.com/ImCoffeee/ImCoffeee/blob/main/square-x-twitter.svg" width="50" />
   </a>
   
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://github.com/ImCoffeee/ImCoffeee/blob/main/instagram-1-svgrepo-com.svg" width="50" />
   </a>
   
