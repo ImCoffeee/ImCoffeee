@@ -10,8 +10,26 @@ Skills: Java/C#/Python
 - 😄 Pronouns: He/Him 
 
 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" />
+  </a>
+      
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/ImCoffeee/ImCoffeee/blob/main/facebook-color-svgrepo-com.svg" width="50" />
+  </a>
+  
+  <a href="https://skillicons.dev">
+     <img src="https://github.com/ImCoffeee/ImCoffeee/blob/main/square-x-twitter.svg" width="50" />
+  </a>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/ImCoffeee/ImCoffeee/blob/main/instagram-1-svgrepo-com.svg" width="50" />
+  </a>
+  
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ImCoffeee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nigelcope01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr_coffp/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mrcoffp)  
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
