@@ -17,7 +17,7 @@ Skills: Java/C#/Python
       
   </a>
   <a>
-    <img src="https://github.com/ImCoffeee/ImCoffeee/blob/mai/facebook-color-svgrepo-com.svg" width="50" />
+    <img src="https://github.com/ImCoffeee/ImCoffeee/blob/main/facebook-color-svgrepo-com.svg" width="50" />
   </a>
   
   <a>
